@@ -22,8 +22,7 @@ public class TrabalhoApplication {
                 saida.append(Character.toLowerCase(entrada.charAt(i)));
             }
         }
-
-        System.out.println("Saída: " + saida.toString());
+        System.out.println("Saída que dança! : " + saida.toString());
 
         scanner.close();
 		
